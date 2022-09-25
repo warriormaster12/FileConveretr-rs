@@ -1,0 +1,12 @@
+[package]
+name = "file_converter"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+tobj = "3.2.3"
+serde_json = "1.0.85"
+serde = "1.0.145"
+serde_derive = "1.0.145"
